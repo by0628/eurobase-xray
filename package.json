@@ -1,0 +1,12 @@
+{
+  "name": "eurobase-xray",
+  "private": true,
+  "version": "1.0.0",
+  "description": "xray behind a node front (health + ws proxy)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
